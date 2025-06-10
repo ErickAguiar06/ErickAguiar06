@@ -1,6 +1,6 @@
 ![github-user-contribution](https://github.com/user-attachments/assets/6411a21a-8677-40e9-b9e8-4994c7592538)
 
-  <img src="https://widgetbite.com/banner?title=Pedro%20Russo&subtitle=GitHub%20Repository&backgroundpalette=harvest&fontpalette=autumn&titletransform=scale&subtitletransform=scale" width=100% height=100%/>
+  <img src="https://www.canva.com/design/DAGp9HEnv7o/k4HZMgxYqnOiyUbXHlApwg/watch?utm_content=DAGp9HEnv7o&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3e303b5997" width=100% height=100%/>
 <div align="center">
 </div>
 </br>  
