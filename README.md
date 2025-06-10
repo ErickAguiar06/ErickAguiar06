@@ -1,8 +1,7 @@
-![github-user-contribution](https://github.com/user-attachments/assets/6411a21a-8677-40e9-b9e8-4994c7592538)
-
-  <img src="https://www.canva.com/design/DAGp9HEnv7o/k4HZMgxYqnOiyUbXHlApwg/watch?utm_content=DAGp9HEnv7o&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3e303b5997" width=100% height=100%/>
+  <img src="erick.gif" width=100% height=100%/>
 <div align="center">
 </div>
+![github-user-contribution](https://github.com/user-attachments/assets/6411a21a-8677-40e9-b9e8-4994c7592538)
 </br>  
 <div align="center">
   <div align="center">
