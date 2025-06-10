@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="blob:https://www.blackbox.ai/1d4bcc0d-6ec4-45cd-a729-b543b8f6b110" width="100%" />
+  <img src="erick.gif" width="100%" />
 </div>
 
 
