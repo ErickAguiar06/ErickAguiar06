@@ -1,6 +1,7 @@
+![github-user-contribution](https://github.com/user-attachments/assets/6411a21a-8677-40e9-b9e8-4994c7592538)
+
   <img src="https://widgetbite.com/banner?title=Pedro%20Russo&subtitle=GitHub%20Repository&backgroundpalette=harvest&fontpalette=autumn&titletransform=scale&subtitletransform=scale" width=100% height=100%/>
 <div align="center">
-<h2> Seja, bem vindo ao meu GitHub!</h2>
 </div>
 </br>  
 <div align="center">
