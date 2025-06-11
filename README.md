@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="erick.gif" width="100%" />
+  <img src="https://www.canva.com/design/DAGp9HEnv7o/jsMDrlHgq4ghfVbVzrcVeA/edit" width="100%" />
 </div>
 
 
