@@ -5,9 +5,9 @@
 ##
 ## 📊 GitHub Status
 
-![Erick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erickaguiar&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickaguiar&layout=compact&theme=tokyonight)
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=erickaguiar&theme=tokyo-night)
+![Erick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erickaguiar06&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickaguiar06&layout=compact&theme=tokyonight)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=erickaguiar06&theme=tokyo-night)
 
 
 <div align="center">
