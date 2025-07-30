@@ -5,10 +5,10 @@
 ![github-user-contribution](https://github.com/user-attachments/assets/6411a21a-8677-40e9-b9e8-4994c7592538)
 
 ## 📊 GitHub Status
-
-![Erick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erickaguiar06&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickaguiar06&layout=compact&theme=tokyonight)
-
+<div align="center">
+-![Erick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erickaguiar06&show_icons=true&theme=tokyonight)
+-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickaguiar06&layout=compact&theme=tokyonight)
+</div>
 
 <div align="center">
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3R6NDFlNHJxbGhpcTZkcGwzb3N4dms4YXhyeXA3bTMyYnJ0eDQwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" widht="100%" height="100%">
