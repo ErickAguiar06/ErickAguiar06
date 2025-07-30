@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickaguiar06&layout=compact&theme=gotham&langs_count=20" alt="" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickaguiar&layout=compact&theme=gotham&langs_count=20" alt="" />
 </div>
 
 ---
