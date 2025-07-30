@@ -6,8 +6,8 @@
 
 ## 📊 GitHub Status
 <div align="center">
--![Erick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erickaguiar06&show_icons=true&theme=tokyonight)
--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickaguiar06&layout=compact&theme=tokyonight)
+![Erick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erickaguiar06&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickaguiar06&layout=compact&theme=tokyonight)
 </div>
 
 <div align="center">
