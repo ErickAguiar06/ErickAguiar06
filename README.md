@@ -1,13 +1,11 @@
  <img src="https://github.com/ErickAguiar06/ErickAguiar06/raw/main/erick.gif" width=100% height=100%/>
-
+##
 ![github-user-contribution](https://github.com/user-attachments/assets/6411a21a-8677-40e9-b9e8-4994c7592538)
 
-##
 ## 📊 GitHub Status
 
 ![Erick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erickaguiar06&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickaguiar06&layout=compact&theme=tokyonight)
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=erickaguiar06&theme=tokyo-night)
 
 
 <div align="center">
